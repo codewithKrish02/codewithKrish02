@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ravipudisaitejakrishna1@gmail.com**
 - Portfolio **<a href="https://codewithkrish02.github.io/">https://codewithkrish02.github.io/</a>**
-- Blogs **<a href="https://codewithkrish02.github.io/Blogs/">https://codewithkrish02.github.io/Blogs/</a>**
+- Blogs **<a href="https://codewithkrish02.github.io/Blogs/">https://codewithkrish02.github.io/blogs/</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
