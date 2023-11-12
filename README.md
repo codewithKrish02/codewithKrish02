@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/tejaravipudi" target="blank"><img src="https://img.shields.io/twitter/follow/tejaravipudi?logo=twitter&style=for-the-badge" alt="tejaravipudi" /></a> </p>
 
-- 📫 How to reach me **ravipudisaitejakrishna1@gmail.com**
+- 📫 How to reach me **ravipuditeja@gmail.com**
 - Portfolio **<a href="https://codewithkrish02.github.io/">https://codewithkrish02.github.io/</a>**
 - Blogs **<a href="https://codewithkrish02.github.io/Blogs/">https://codewithkrish02.github.io/blogs/</a>**
 
